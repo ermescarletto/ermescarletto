@@ -44,11 +44,11 @@ When I’m not coding, you can find me tinkering with new tech, digging into dat
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ermescarletto&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermescarletto&layout=compact&theme=radical)
 
