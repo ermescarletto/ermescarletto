@@ -36,12 +36,6 @@ When I’m not coding, you can find me tinkering with new tech, digging into dat
 
 ---
 
-## 🚀 Let's Connect
-
-- [LinkedIn](#) | [Twitter](#) | [GitHub](#)
-
----
-
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ermescarletto&show_icons=true&theme=radical)
