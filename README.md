@@ -8,13 +8,9 @@
 ### **Languages:**
 - **Python** 🐍: From scripting to data analysis, Python is my go-to tool.
 - **Java** ☕: Object-oriented programming and beyond.
-- **JavaScript**: Adding interactivity to the web.
+- **Typescript**: Adding interactivity.
 - **Dart**: Crafting beautiful UIs with Flutter for Android and IOs
 
-### **Frameworks & Libraries:**
-- **React** ⚛️: Building dynamic user interfaces.
-- **Next.js**: Taking React to the next level.
-- **Flutter**: Cross-platform app development made easy.
 
 ### **Web Technologies:**
 - **HTML** 📝: The backbone of the web.
