@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm E.J. Carletto!
 
-### 🦕 Data Dinosaur | 💻 Software Developer | 🧑‍💻 Tech Enthusiast
+### 🦕 Data Dinosaur | 💻 Software Developer 
 
 ---
 ## 🧰 Tech Toolbox
